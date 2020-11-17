@@ -26,6 +26,5 @@ Skills: PYTHON / DJANGO/ JS / HTML / CSS / MYSQL
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kingbond470)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mausam-singh-5073451ab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/computer_science__student/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mausamsingh470)  
 
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kingbond470)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kingbond470&private_count=true&show_icons=true&theme=radical
 
