@@ -3,10 +3,10 @@
 
 ![Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1582049301/600x200)
 
-I am Mausam Singh and I'm undergraduate student at University of Mumbai majoring in computer scinece. The things that I love most are writing code and learning about new technology.
-Pleasure in the study, puts perfection on the wrok! Computer science student by profession, with a dream to make this world a better place using breath taking power of techonology! I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn in web forntend and backend developement, machine learning algorithms and their implementation and framewroks like Django. I also enjoy working with teams of dedicated people. 
-In my free time while i'm not coding, I enjoy playing sports or video games and watching anime. I thrive for creativity, innovation and humanity.
-I'm looking to obtain a position that allows for application of system design skills,support abilities and critical thinking to produce softwares that meets goals and objectives outlindd by user.
+I am Mausam Singh and I'm undergraduate student at University of Mumbai majoring in Computer Science. The things that I love most are writing code and learning about new technology.
+Pleasure in the study, puts perfection on the work! Computer science student by profession, with a dream to make this world a better place using breath taking power of techonology! I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn in web forntend and backend developement, machine learning algorithms and their implementation and framewroks like Django. I also enjoy working with teams of dedicated people. 
+In my free time while I'm not coding, I enjoy playing sports or video games and watching anime. I thrive for creativity, innovation and humanity.
+I'm looking to obtain a position that allows for application of system design skills, support abilities and critical thinking to produce softwares that meets goals and objectives outlindd by user.
 
 If you have a dream.
 Then you also have work to do.
