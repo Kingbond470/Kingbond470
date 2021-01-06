@@ -1,7 +1,7 @@
 ### I'm  Mausam Singh
 #### Development, System Design and Security
 
-![Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1582049301/600x200)
+![Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1609866123/1080x360)
 
 I am Mausam Singh and I'm undergraduate student at University of Mumbai majoring in Computer Science. The things that I love most are writing code and learning about new technology.
 Pleasure in the study, puts perfection on the work! Computer science student by profession, with a dream to make this world a better place using breath taking power of techonology! I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn in web forntend and backend developement, machine learning algorithms and their implementation and framewroks like Django. I also enjoy working with teams of dedicated people. 
