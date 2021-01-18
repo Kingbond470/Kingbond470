@@ -1,6 +1,6 @@
 <h1 align="center">I'm Mausam Singh</h1>
 
-![Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1609866123/1080x360)
+![Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
 
 The things that I love most are writing code and learning about new technology.
 Pleasure in the study, puts perfection on the work! Computer science student by profession, with a dream to make this world a better place using breath taking power of techonology! I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn in web forntend and backend developement, machine learning algorithms and their implementation and framewroks like Django. I also enjoy working with teams of dedicated people. 
