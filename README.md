@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mausam Singh</h1>
-<h3 align="center">I'm undergraduate student at University of Mumbai majoring in Computer Science.</h3>
+
+![Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1609866123/1080x360)
+
+The things that I love most are writing code and learning about new technology.
+Pleasure in the study, puts perfection on the work! Computer science student by profession, with a dream to make this world a better place using breath taking power of techonology! I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn in web forntend and backend developement, machine learning algorithms and their implementation and framewroks like Django. I also enjoy working with teams of dedicated people. 
+In my free time while I'm not coding, I enjoy playing sports or video games and watching anime. I thrive for creativity, innovation and humanity.
+I'm looking to obtain a position that allows for application of system design skills, support abilities and critical thinking to produce softwares that meets goals and objectives outlindd by user.
+
+If you have a dream.
+Then you also have work to do.
+Put away your phone, turn off your notifications, and focus.
+One hour of deep, uninterrupted work is more valuable than an entire day of giving half the effort.
+When we strive to become better than we are,everything around us becomes better too.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingbond470&label=Profile%20views&color=0e75b6&style=flat" alt="kingbond470" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingbond470" alt="kingbond470" /></a> </p>
 
 - 🔭 I’m currently working on [social media application](https://github.com/Kingbond470/Web-Application---Twitter)
 
@@ -21,9 +33,7 @@
 
 - ⚡ Fun fact **Code and Anime**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingbond470" alt="kingbond470" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +41,6 @@
 <a href="https://linkedin.com/in/mausam-singh-5073451ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mausam-singh-5073451ab/" height="30" width="40" /></a>
 <a href="https://instagram.com/computer_science__student" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="computer_science__student" height="30" width="40" /></a>
 <a href="https://medium.com/@kingbond470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kingbond470" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kingbondl kun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kingbondl kun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
