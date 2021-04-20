@@ -1,6 +1,6 @@
 <h1 align="left">Hello こんにちは</h1>
 
-![Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
+![Android Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
 
 I'm Mausam Singh an undergraduate student at University of Mumbai majoring in Computer Science.
 The things that I love most are writing code and learning about new technology. Most of the time,I believe in writing for self reflection and reading for self development
@@ -21,11 +21,11 @@ When we strive to become better than we are,everything around us becomes better 
 
 - 🔭 I’m currently working on [Social Media Application](https://github.com/Kingbond470/Web-Application---Twitter)
 
-- 🌱 I’m currently learning **Django and ReactJs**
+- 🌱 I’m currently learning **Android**
 
-- 👯 I’m looking to collaborate on **Django and AI**
+- 👯 I’m looking to collaborate on **Android Development Projects**
 
-- 🤝 I’m looking for help with **CP in Python**
+- 🤝 I’m looking for help with **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Kingbond470)
 
