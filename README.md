@@ -3,10 +3,10 @@
 ![Android Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
 
 I'm Mausam Singh an undergraduate student at University of Mumbai majoring in Computer Science.
-The things that I love most are writing code and learning about new technology. Most of the time,I believe in writing for self reflection and reading for self development
-Pleasure in the study, puts perfection on the work! Computer science student by profession, with a dream to make this world a better place using breath taking power of techonology! I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn in web forntend and backend developement, machine learning algorithms and their implementation and framewroks like Django. I also enjoy working with teams of dedicated people. 
+The things that I love most are writing code and learning about new technology. Most of the time, I believe in writing for self reflection and reading for self development. 
+Computer science student by profession, with a dream to make society a better place by using breath taking power of techonology. I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn web Frontend and Backend developement, Data Structure & Algorithm and their implementation, framewroks like Django. I also enjoy working with teams of dedicated people. 
 
-In my free time while I'm not coding, I enjoy playing sports or video games and watching anime. I thrive for humanity.
+In my free time while I'm not coding, I enjoy playing sports or video games and watching animes. I thrive for working towards humanity.
 I'm looking to obtain a position that allows for application of system design skills, support abilities and critical thinking to produce softwares that meets goals and objectives outlined by user.
 
 If you have a dream.
