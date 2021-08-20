@@ -39,7 +39,9 @@ When we strive to become better than we are, everything around us becomes better
 
 - ⚡ Fun fact **Code and Anime**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingbond470" alt="kingbond470" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingbond470&no-frame=true&margin-w=35&theme=buddhism" alt="kingbond470" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
