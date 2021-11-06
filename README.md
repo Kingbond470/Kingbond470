@@ -31,7 +31,7 @@ When we strive to become better than we are, everything around us becomes better
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Kingbond470)
+- 👨‍💻 All of my projects are available at [Explore](https://kingbond470.netlify.app/)
 
 - 📝 I regularly write articles on [Medium - Kingbond470](https://kingbond470.medium.com/)
 
