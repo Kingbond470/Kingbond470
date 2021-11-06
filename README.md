@@ -23,7 +23,7 @@ When we strive to become better than we are, everything around us becomes better
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingbond470&label=Profile%20views&color=0e75b6&style=flat" alt="kingbond470" /> </p>
 
 
-- 🔭 I’m currently working on [Social Media Application](https://github.com/Kingbond470/Web-Application---Twitter)
+- 🔭 I’m currently working on [DSA](https://leetcode.com/kingbond470/)
 
 - 🌱 I’m currently learning **Android**
 
@@ -35,7 +35,7 @@ When we strive to become better than we are, everything around us becomes better
 
 - 📝 I regularly write articles on [Medium - Kingbond470](https://kingbond470.medium.com/)
 
-- 💬 Ask me about **Developement and security**
+- 💬 Ask me about **Android Developement and security**
 
 - ⚡ Fun fact **Code and Anime**
 
