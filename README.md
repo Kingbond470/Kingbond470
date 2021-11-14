@@ -13,7 +13,7 @@ If you have a dream.
 
 Then you also have work to do.
 
-Put away your phone, turn off your notifications, and focus.
+Overcome Distractions and focus.
 
 One hour of deep, uninterrupted work is more valuable than an entire day of giving half the effort.
 
