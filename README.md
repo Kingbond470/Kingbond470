@@ -2,7 +2,7 @@
 
 ![Android Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
 
-I'm Mausam Singh 👨‍🎓 I have completed my bachelor's in computer science from University of Mumbai 🏫 [2021] 
+I'm Mausam Singh 👨‍🎓 and I have completed my graduation in Bachelor of Computer Science from University of Mumbai 🏫 - 2021 
 
 The things that I love most are writing code and learning about new technology. Most of the time, I believe in writing ✍️ for self-reflection and reading for self-development 📚 
 I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn Web Frontend and Android development, Data Structure & Algorithm. I like to work with teams of dedicated people. 
