@@ -2,21 +2,16 @@
 
 ![Android Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
 
-I'm Mausam Singh an undergraduate student at the University of Mumbai majoring in Computer Science.
-The things that I love most are writing code and learning about new technology. Most of the time, I believe in writing for self-reflection and reading for self-development. 
-I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn Web Frontend and Backend development, Data Structure & Algorithm and their implementation, a framework like Django. I also enjoy working with teams of dedicated people. 
+I'm Mausam Singh 👨‍🎓 I have completed my bachelor's in computer science from University of Mumbai 🏫 [2021] 
 
-In my free time, while I'm not coding, I enjoy playing sports or video games and watching anime. I thrive on working towards humanity.
+The things that I love most are writing code and learning about new technology. Most of the time, I believe in writing ✍️ for self-reflection and reading for self-development 📚 
+I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn Web Frontend and Android development, Data Structure & Algorithm. I like to work with teams of dedicated people. 
+
+In my free time, while I'm not coding, I enjoy playing sports, video games 👾 and watching anime.
 I'm looking to obtain a position that allows for the application of system design skills, support abilities, and critical thinking to produce software that meets the goals and objectives outlined by the user.
 
-If you have a dream.
-
-Then you also have work to do.
-
-Overcome Distractions and focus.
-
-One hour of deep, uninterrupted work is more valuable than an entire day of giving half the effort.
-
+If you have a dream 🎯, then you also have work to do.
+Overcome Distractions and focus. One hour of deep, uninterrupted work is more valuable than an entire day of giving half the effort.
 When we strive to become better than we are, everything around us becomes better too.
 
 
@@ -53,32 +48,27 @@ When we strive to become better than we are, everything around us becomes better
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="30" height="30"/> 
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/> 
+  
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="35" height="35"/> 
 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
+
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-
-
-
 </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingbond470&show_icons=true&locale=en" alt="kingbond470" /></p>
 
