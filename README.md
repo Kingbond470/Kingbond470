@@ -74,6 +74,8 @@ When we strive to become better than we are, everything around us becomes better
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingbond470&" alt="kingbond470" /></p>
 
+### GitHub
 [More Stats](https://profile-summary-for-github.com/user/Kingbond470)
+<img src="https://github.com/Kingbond470/Android-Practice/blob/main/MoveOnPlaystore/stats_github.png" />
 
 <a href="https://www.buymeacoffee.com/kingbond470" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
