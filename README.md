@@ -42,7 +42,7 @@ When we strive to become better than we are, everything around us becomes better
 <p align="left">
 <a href="https://twitter.com/mausamsingh470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mausamsingh470" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mausam-singh-5073451ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mausam-singh-5073451ab/" height="30" width="40" /></a>
-<a href="https://instagram.com/computer_science__student" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="computer_science__student" height="30" width="40" /></a>
+<a href="https://instagram.com/devandroid0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="devandroid0" height="30" width="40" /></a>
 <a href="https://medium.com/@kingbond470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kingbond470" height="30" width="40" /></a>
 </p>
 
