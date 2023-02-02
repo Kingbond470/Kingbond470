@@ -28,7 +28,7 @@ When we strive to become better than we are, everything around us becomes better
 
 - 👨‍💻 All of my projects are available at [Explore](https://kingbond470.netlify.app/)
 
-- 📝 I regularly write articles on [Medium - Kingbond470](https://kingbond470.medium.com/)
+- 📝 I regularly write articles on [Medium - Kingbond470](https://kingbond470.medium.com/) & [Hashnode - Programming](https://kingbond470.hashnode.dev/)
 
 - 💬 Ask me about **Android Developement and security**
 
