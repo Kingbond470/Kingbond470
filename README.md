@@ -18,7 +18,7 @@ When we strive to become better than we are, everything around us becomes better
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingbond470&label=Profile%20views&color=0e75b6&style=flat" alt="kingbond470" /> </p>
 
 
-- 🔭 I’m currently working at [Meesho]([https://leetcode.com/kingbond470/](https://www.meesho.com/))
+- 🔭 I’m currently working at [Meesho](https://www.meesho.com/)
 
 - 🌱 I’m currently learning **Android**
 
