@@ -1,36 +1,50 @@
 <h1 align="left">Hello こんにちは</h1>
 
-![Android Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
+![Product Management, Android Development, and System Design](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
 
-I'm Mausam Singh 👨‍🎓 and I have completed my graduation in Bachelor of Computer Science from University of Mumbai 🏫 - 2021 
 
-The things that I love most are writing code and learning about new technology. Most of the time, I believe in writing ✍️ for self-reflection and reading for self-development 📚 
-I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn Web Frontend and Android development, Data Structure & Algorithm. I like to work with teams of dedicated people. 
+Hello | こんにちは(Kon'nichiwa),
+<br>
+ I'm Mausam Singh, and I have been residing in the suburban area Nalasopara, Mumbai for over a decade. Currently, I am pursuing higher studies at Mesa school of business to learn more about product management leadership. I have completed my graduation in Bachelor of Computer Science from University of Mumbai 🏫 - 2021. I was employed at Meesho, where I had served as Software Engineer specialising in Android development for more than 1.6 year where I had worked on Discovery, Product Meta and Android team.
+<br>
 
-In my free time, while I'm not coding, I enjoy playing sports, video games 👾 and watching anime.
-I'm looking to obtain a position that allows for the application of system design skills, support abilities, and critical thinking to produce software that meets the goals and objectives outlined by the user.
+ I believe in writing for self-reflection and reading for self-development. I enjoy implementing ideas into impactful projects using new technology. This curiosity has led me to learn web front-end and Android development, algorithms, data structures
+<br>
 
-If you have a dream 🎯, then you also have work to do.
-Overcome Distractions and focus. One hour of deep, uninterrupted work is more valuable than an entire day of giving half the effort.
-When we strive to become better than we are, everything around us becomes better too.
+• I'm looking to acquire a product position that allows the application of system design skills, support abilities and critical thinking to produce software that meets the goals and objectives outlined by the user.<br>
+• I also enjoy working with teams of dedicated people who help each other to grow.<br>
+• In my free time while I'm not coding. I enjoy playing sports as well as video games.<br>
+• I read manga to destress and watch anime on weekends. It helps me to do better in my personal and professional life.<br>
 
+
+Skills: <br>
+ · Product Management<br>
+ · Teamwork<br>
+ · Java · Algorithms<br>
+ · Android Development<br>
+ · Kotlin · Android<br>
+
+Networking : If you want to know more about product and tech related to ecommerce, send a message or reach out to me at ✉️ mausamsingh470@gmail.com
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingbond470&label=Profile%20views&color=0e75b6&style=flat" alt="kingbond470" /> </p>
 
 
+- 🔭 I’m currently studying at [Mesa School Of Business](https://www.mesaschool.co/)
+  
 - 🔭 I’m currently working at [Meesho](https://www.meesho.com/)
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Business and Design for Product Management**
 
-- 👯 I’m looking to collaborate on **Android Development Projects**
+- 👯 I’m looking to collaborate on **Product Management**
 
-- 🤝 I’m looking for help with **Competitive Programming**
+- 🤝 I’m looking for help with **Early Stage : Product Management**
 
 - 👨‍💻 All of my projects are available at [Explore](https://kingbond470.netlify.app/)
 
 - 📝 I regularly write articles on [Medium - Kingbond470](https://kingbond470.medium.com/) & [Hashnode - Programming](https://kingbond470.hashnode.dev/)
 
-- 💬 Ask me about **Android Developement and security**
+- 💬 Ask me about **Product Management, Android Developement**
 
 - ⚡ Fun fact **Code and Anime**
 
