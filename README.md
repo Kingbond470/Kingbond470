@@ -32,7 +32,7 @@ Networking : If you want to know more about product and tech related to ecommerc
 
 - 🔭 I’m currently studying at [Mesa School Of Business](https://www.mesaschool.co/)
   
-- 🔭 I’m currently working at [Meesho](https://www.meesho.com/)
+- 🔭 I’ve worked at [Meesho](https://www.meesho.com/)
 
 - 🌱 I’m currently learning **Business and Design for Product Management**
 
