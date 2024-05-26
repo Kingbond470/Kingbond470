@@ -80,9 +80,9 @@ Networking : If you want to know more about product and technology(AI-LLM), send
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 </p>
 
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingbond470&show_icons=true&locale=en" alt="kingbond470" /></p>
-
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingbond470&" alt="kingbond470" /></p>
 
