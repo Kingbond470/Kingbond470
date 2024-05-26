@@ -26,9 +26,9 @@ Skills: <br>
 
 Networking : If you want to know more about product and technology(AI-LLM), send a message or reach out to me at ✉️ mausamsingh470@gmail.com
 <br>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingbond470&label=Profile%20views&color=0e75b6&style=flat" alt="kingbond470" /> </p>
-
+-->
 
 - 🔭 I’m currently studying at [Mesa School Of Business](https://www.mesaschool.co/)
   
