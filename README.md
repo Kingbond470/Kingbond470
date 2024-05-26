@@ -3,19 +3,17 @@
 ![Product Management, Android Development, and System Design](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
 
 
-Hello | こんにちは(Kon'nichiwa),
+Hello | こんにちは(Kon'nichiwa), <br>
 
-<br>
-Mausam Singh is a software engineer with experience in product management and android development. He is currently pursuing a master's degree in startup product leadership at Mesa School of Business, where he is learning how to build and scale innovative products and teams. He graduated from the University of Mumbai with a bachelor's degree in computer science in 2021.
+Mausam Singh is a software engineer with experience in product management and android development. He is currently pursuing a master's degree in startup product leadership at Mesa School of Business, where he is learning how to build and scale innovative products and teams. He graduated from the University of Mumbai with a bachelor's degree in computer science in 2021. <br>
 
-At his previous role at Meesho, an e-commerce platform, he worked on various features and projects that enhanced customer experience, revenue and retention, such as quality metrics, web views, and A/B testing. He also collaborated with cross-functional teams to implement ideas into impactful products using new technologies. 
+
+At his previous role at Meesho, an e-commerce platform, he worked on various features and projects that enhanced customer experience, revenue and retention, such as quality metrics, web views, and A/B testing. He also collaborated with cross-functional teams to implement ideas into impactful products using new technologies. <br> 
 
 He is looking for a product position that allows him to apply his user centric approach, data driven decision, technological experience, and critical thinking skills to create software that meets user needs and objectives. He also values teamwork, growth, and diversity in his work environment.
 
-He is passionate about writing for self-reflection, reading for self-development, and learning new skills. He enjoys playing team sports like cricket, football, video games, and anime in his free time. 
+He is passionate about writing for self-reflection, reading for self-development, and learning new skills. He enjoys playing team sports like cricket, football, video games. I read manga to destress and watch anime on weekends. It helps me to do better in my personal and professional life.
 <br>
-
- He believe in writing for self-reflection and reading for self-development. I read manga to destress and watch anime on weekends. It helps me to do better in my personal and professional life.<br>
 
 Skills: <br>
  · User Research · Market Analysis<br>
@@ -40,18 +38,16 @@ Networking : If you want to know more about product and technology(AI-LLM), send
 
 - 👯 I’m looking to collaborate on **Product Management**
 
-- 🤝 I’m looking for help with **Early Stage : Product Management**
-
 - 👨‍💻 All of my projects are available at [Explore](https://kingbond470.netlify.app/)
 
 - 📝 I regularly write articles on [Medium - Kingbond470](https://kingbond470.medium.com/) & [Hashnode - Programming](https://kingbond470.hashnode.dev/)
 
 - 💬 Ask me about **Product Management, Android Developement**
 
-- ⚡ Fun fact **Code and Anime**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingbond470&no-frame=true&margin-w=35&theme=buddhism" alt="kingbond470" /></a> </p>
-
+- ⚡ Fun fact **User and Anime**
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingbond470&no-frame=true&margin-w=35&theme=buddhism" alt="kingbond470" /></a> </p> 
+-->
 
 
 <h3 align="left">Connect with me:</h3>
