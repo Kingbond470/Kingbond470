@@ -5,14 +5,14 @@
 
 Hello | こんにちは(Kon'nichiwa), <br>
 
-Mausam Singh is a product manager with experience in product management and engineering. He is currently pursuing a master's degree in startup product leadership at Mesa School of Business, where he is learning how to build and scale innovative products and teams. He graduated from the University of Mumbai with a bachelor's degree in computer science in 2021. <br>
+Mausam Singh is a product manager with experience in product management and engineering. He is pursuing a PGP in Product Management at Mesa School of Business, where he will learn how to build and scale innovative products and teams. He graduated from the University of Mumbai with a bachelor's degree in computer science in 2021. <br>
 
 
 In his previous role at Meesho, an e-commerce platform, he worked on various features and projects that enhanced customer experience, revenue, and retention, such as quality metrics, web views, and A/B testing. He also collaborated with cross-functional teams to implement ideas into impactful products using new technologies. <br> 
 
 He is looking for a product position that allows him to apply his user-centric approach, data-driven decision, technological experience, and critical thinking skills to create software that meets user needs and objectives. He also values teamwork, growth, and diversity in his work environment.
 
-He is passionate about writing for self-reflection, reading for self-development, and learning new skills. He enjoys playing team sports like cricket, football, video games. I read the manga to destress and watch anime on weekends. It helps me to do better in my personal and professional life.
+He is passionate about writing for self-reflection, reading for self-development, and learning new skills. He enjoys playing team sports like cricket, football, and video games. I read manga to destress and watch anime on weekends. It helps me to do better in my personal and professional life.
 <br>
 
 Skills: <br>
