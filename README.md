@@ -20,12 +20,7 @@ Skills: <br>
  · Prioritization · A/B Experiment <br>
  · Data Analysis · Problem Solving <br>
  · Collaboration · Time Management <br>
- · Java · SQL <br>
- · Android Development · Python<br>
- · Kotlin · Android <br>
-
-Networking: If you want to know more about product and technology, send a message or reach out to me at ✉️ mausamsingh470@gmail.com
-<br>
+ · Java · SQL · Kotlin  · Python<br>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingbond470&label=Profile%20views&color=0e75b6&style=flat" alt="kingbond470" /> </p>
 -->
