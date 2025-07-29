@@ -5,7 +5,7 @@
 
 Hello | こんにちは(Kon'nichiwa), <br>
 
-Mausam Singh is a product manager with experience in product management and engineering. He is pursuing a PGP in Product Management at Mesa School of Business, where he will learn how to build and scale innovative products and teams. He graduated from the University of Mumbai with a bachelor's degree in computer science in 2021. <br>
+Mausam Singh is a product manager with experience in product management and engineering. Currently, He is working at Ather Energy. He has completed a PGP in Product Management at Mesa School of Business. He graduated from the University of Mumbai with a bachelor's degree in computer science in 2021. <br>
 
 
 In his previous role at Meesho, an e-commerce platform, he worked on various features and projects that enhanced customer experience, revenue, and retention, such as quality metrics, web views, and A/B testing. He also collaborated with cross-functional teams to implement ideas into impactful products using new technologies. <br> 
@@ -24,17 +24,17 @@ Skills: <br>
  · Android Development · Python<br>
  · Kotlin · Android <br>
 
-Networking: If you want to know more about product and technology(AI-LLM), send a message or reach out to me at ✉️ mausamsingh470@gmail.com
+Networking: If you want to know more about product and technology, send a message or reach out to me at ✉️ mausamsingh470@gmail.com
 <br>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingbond470&label=Profile%20views&color=0e75b6&style=flat" alt="kingbond470" /> </p>
 -->
 
-- 🔭 I’m currently studying at [Mesa School Of Business](https://www.mesaschool.co/)
+- 🔭 I’m currently working at [Ather Energy](https://www.atherenergy.com/)
   
 - 🔭 I’ve worked at [Meesho](https://www.meesho.com/)
 
-- 🌱 I’m currently learning **Business and Design for Product Management**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Product Management**
 
@@ -42,9 +42,7 @@ Networking: If you want to know more about product and technology(AI-LLM), send 
 
 - 📝 I regularly write articles on [Medium - Kingbond470](https://kingbond470.medium.com/) & [Hashnode - Programming](https://kingbond470.hashnode.dev/)
 
-- 💬 Ask me about **Product Management, Android Development**
-
-- ⚡ Fun fact **User and Anime**
+- ⚡ Fun fact **User and Sports**
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingbond470&no-frame=true&margin-w=35&theme=buddhism" alt="kingbond470" /></a> </p> 
 -->
